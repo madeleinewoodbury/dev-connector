@@ -1,7 +1,7 @@
 import axios from "axios";
 import {
   PROFILE_LOADING,
-  GET_ERRORS,
+  // GET_ERRORS,
   GET_PROFILE,
   CLEAR_CURRENT_PROFILE
 } from "./types";
